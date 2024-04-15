@@ -1,0 +1,12 @@
+.container
+{
+  text-align: center;
+}
+
+button{
+  background-color: grey;
+  border-radius: 5px;
+  margin: 5px;
+  color: red;
+  text-align: center;
+}
